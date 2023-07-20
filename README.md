@@ -29,6 +29,6 @@ A：
 
 软件也花了我不少的时间，一开始只是为了方便自己，后面发现挺好用的还是分享给大家一起用！（为爱发电了属于是...）
 
-<img src="./images/wx.png">
+<img src="./images/wx.png" width=400>
 
-<img src="./images/alipay.jpg">
+<img src="./images/alipay.jpg" width=400>
