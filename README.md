@@ -4,6 +4,8 @@
 
 下载链接：<a href="https://github.com/Byxs20/PuzzleSolver/releases">软件下载戳我！！！</a>
 
+使用教程：[不会使用戳我！！！](https://github.com/Byxs20/PuzzleSolver/wiki/%E6%95%99%E7%A8%8B)
+
 # Q&A
 
 Q：
