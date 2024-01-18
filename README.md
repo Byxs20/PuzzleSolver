@@ -1,4 +1,4 @@
-# PuzzleSolver
+# ⚡PuzzleSolver
 
 一款针对CTF竞赛MISC的工具~
 
@@ -6,7 +6,7 @@
 
 使用教程：[不会使用戳我！！！](https://github.com/Byxs20/PuzzleSolver/wiki/%E6%95%99%E7%A8%8B)
 
-# Q&A
+# ❓Q&A
 
 Q：
 
@@ -30,11 +30,15 @@ A：
 存放入C\D\E\F等盘都行，简而言之不要有中文!
 ```
 
-# 捐助
+# ☕捐助
 
-软件也花了我不少的时间，一开始只是为了方便自己，后面发现挺好用的还是分享给大家一起用！（为爱发电了属于是...）
+PS：软件也花了我不少的时间，一开始只是为了方便自己，后面发现挺好用的还是分享给大家一起用！（为爱发电了属于是...）
+
+## `☕微信`
 
 <img src="./images/wx.png" width=400>
+
+## `☕支付宝`
 
 <img src="./images/alipay.jpg" width=400>
 
