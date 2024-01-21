@@ -108,3 +108,11 @@ PS：软件也花了我不少的时间，一开始只是为了方便自己，后
 排名没有先后之分，没有金额大小之分，真心感谢各位支持哈！！！
 
 如果有没统计到位的师傅们！一定一定要提醒我！我不是故意的（
+
+# 🌟Star History Chart
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Byxs20/PuzzleSolver&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Byxs20/PuzzleSolver&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Byxs20/PuzzleSolver&type=Date" />
+</picture>
