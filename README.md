@@ -6,6 +6,8 @@
 
 使用教程：[不会使用戳我！！！](https://github.com/Byxs20/PuzzleSolver/wiki/%E6%95%99%E7%A8%8B)
 
+<img src="./images/软件图.png">
+
 # ❓Q&A
 
 Q：
